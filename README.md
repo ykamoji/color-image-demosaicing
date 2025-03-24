@@ -1,2 +1,1 @@
-# color-image-demosaicing
-Implement and compare the interpolation algorithms for missing values to obtain a color image. 
+![Question](https://github.com/ykamoji/color-image-demosaicing/blob/main/img_refs/question.png?raw=true)
